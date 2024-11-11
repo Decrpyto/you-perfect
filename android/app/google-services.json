@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "193254357315",
+    "project_id": "youperfectprod",
+    "storage_bucket": "youperfectprod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193254357315:android:3b122ea235f4d0f277d7f6",
+        "android_client_info": {
+          "package_name": "com.youperfect.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193254357315-q2ubmub80ponoecs9qkl34hsjga22bnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.youperfect.app",
+            "certificate_hash": "ebe1f59a2094de548ab2d16198098bc2e6e51a0e"
+          }
+        },
+        {
+          "client_id": "193254357315-fcbtkbhulaj66rtcj2030tln75fq1kbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDM1PcevhiG-BvYJssHbjDWTUm8lw-9AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193254357315-fcbtkbhulaj66rtcj2030tln75fq1kbd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193254357315-ls92dbakjkgmnkm6a3f4teskrla4iv00.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.youperfect.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
